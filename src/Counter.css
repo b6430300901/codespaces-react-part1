@@ -1,0 +1,14 @@
+button{
+    background-color: rgb(7, 23, 255);
+    color:white;
+    cursor: pointer;
+
+
+    
+}
+.reset{
+    background-color: red;
+}
+h3{
+    color:red;
+}
